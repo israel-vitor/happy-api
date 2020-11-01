@@ -4,5 +4,11 @@ node_modules/
 # Optional npm cache directory
 .npm
 
-# dotenv environment variables file
+# Environment variables file
 .env
+
+# Database files
+*.sqlite
+
+# Media upload directory
+uploads/
